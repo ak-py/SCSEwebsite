@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d7bc5cdb-f235-4e41-a008-5783b3da8e1c" name="Default" comment="">
+    <list default="true" id="d7bc5cdb-f235-4e41-a008-5783b3da8e1c" name="Default" comment="april changes made - applications added">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upcoming-events.html" />
     </list>
@@ -24,8 +24,8 @@
       <file leaf-file-name="opportunities.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/opportunities.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="506">
-              <caret line="407" column="28" lean-forward="false" selection-start-line="407" selection-start-column="28" selection-end-line="407" selection-end-column="28" />
+            <state relative-caret-position="236">
+              <caret line="444" column="50" lean-forward="true" selection-start-line="444" selection-start-column="50" selection-end-line="444" selection-end-column="50" />
               <folding>
                 <element signature="n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -34,8 +34,6 @@
                 <element signature="n#div#3;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#4;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#5;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#6;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#7;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#section#5;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#section#6;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -51,8 +49,8 @@
       <file leaf-file-name="upcoming-events.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/upcoming-events.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="131" column="219" lean-forward="false" selection-start-line="131" selection-start-column="219" selection-end-line="131" selection-end-column="219" />
+            <state relative-caret-position="34">
+              <caret line="90" column="135" lean-forward="false" selection-start-line="90" selection-start-column="135" selection-end-line="90" selection-end-column="135" />
               <folding />
             </state>
           </provider>
@@ -63,16 +61,22 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>ACI San Diego</find>
+      <find>American Public Works Asso</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="akg009@ucsd.edu" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/opportunities.html" />
         <option value="$PROJECT_DIR$/upcoming-events.html" />
+        <option value="$PROJECT_DIR$/opportunities.html" />
       </list>
     </option>
   </component>
@@ -102,7 +106,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -118,6 +121,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -140,11 +144,12 @@
       <workItem from="1488839608378" duration="1799000" />
       <workItem from="1488910545252" duration="21000" />
       <workItem from="1489446680030" duration="517000" />
+      <workItem from="1492048845178" duration="1595000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2337000" />
+    <option name="totallyTimeSpent" value="3932000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="34" width="1280" height="733" extended-state="0" />
@@ -152,6 +157,7 @@
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2494043" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32880846" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -174,11 +180,46 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="april changes made - applications added" />
+    <option name="LAST_COMMIT_MESSAGE" value="april changes made - applications added" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/opportunities.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6105">
+          <caret line="407" column="28" lean-forward="false" selection-start-line="407" selection-start-column="28" selection-end-line="407" selection-end-column="28" />
+          <folding>
+            <element signature="n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#5;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#6;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#8;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#9;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#section#9;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/upcoming-events.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/opportunities.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -191,8 +232,6 @@
             <element signature="n#div#3;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#4;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#5;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#6;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#7;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#5;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#6;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -216,8 +255,6 @@
             <element signature="n#div#3;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#4;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#5;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#6;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#7;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#5;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#6;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -231,8 +268,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/opportunities.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="407" column="28" lean-forward="false" selection-start-line="407" selection-start-column="28" selection-end-line="407" selection-end-column="28" />
+        <state relative-caret-position="236">
+          <caret line="444" column="50" lean-forward="true" selection-start-line="444" selection-start-column="50" selection-end-line="444" selection-end-column="50" />
           <folding>
             <element signature="n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -241,8 +278,6 @@
             <element signature="n#div#3;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#4;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#5;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#6;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#7;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#5;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#6;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -256,8 +291,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/upcoming-events.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="131" column="219" lean-forward="false" selection-start-line="131" selection-start-column="219" selection-end-line="131" selection-end-column="219" />
+        <state relative-caret-position="34">
+          <caret line="90" column="135" lean-forward="false" selection-start-line="90" selection-start-column="135" selection-end-line="90" selection-end-column="135" />
           <folding />
         </state>
       </provider>
